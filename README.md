@@ -5,6 +5,10 @@
 UVwatch is a Fitbit app that allows users to get the UV index from their current location, helping them understand the intensity of UV radiation. With this information, users can make informed decisions about sun protection and manage their sun exposure to avoid sunburn and promote safe tanning.
 The idea came when I had a Fitbit myself and used UVlens before but having the possibility to see the information on your watch is even more accessible.
 
+## Status
+Currently I don't have a Fitbit device anymore and therefore will not proceed with development for the near and maybe future. All the information will stay public but the compatibility may vary over time. Furthermore I will not publish the app in the fitbit store, not only because the third party fitbit app support will be gone in the near future, but also because Fitbit development will likely be discontinued due to Google their takeover. Lastly the app is currently not polished enough to be used reliably and in many condition.
+If interested, I may try to develop a similar app for Garmin Watches in the future if this is possible and not too hard. When and if this happens I will try to update this readme and link to it.
+
 ## Features
 
 - Real-time UV index display based on your location.
